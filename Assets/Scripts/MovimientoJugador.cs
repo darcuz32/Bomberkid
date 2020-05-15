@@ -151,7 +151,7 @@ public class MovimientoJugador : MonoBehaviour
     {
         animCont.SetTrigger("Chamuscado");
         muerto = true;
-        //GameManager.Instance.MeMori(gameObject);
+        GameManager.Instance.MeMori(gameObject);
         yield return new WaitForSeconds(animation.length);
         Destroy(gameObject);
     }
