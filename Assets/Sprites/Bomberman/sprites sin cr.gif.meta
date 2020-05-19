@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: ead9998e91d175546b20158430c4a19c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1228076795800534153
+    second: sprites sin cr_0
+  - first:
+      213: -8302930075987241631
+    second: sprites sin cr_1
+  - first:
+      213: 1625827257960977348
+    second: sprites sin cr_2
+  - first:
+      213: -4574983326445715560
+    second: sprites sin cr_3
+  - first:
+      213: -170763263886067233
+    second: sprites sin cr_4
+  - first:
+      213: -1828472550800350751
+    second: sprites sin cr_5
+  - first:
+      213: 1931399061785046024
+    second: sprites sin cr_6
+  - first:
+      213: -7104835373507913034
+    second: sprites sin cr_7
+  - first:
+      213: 2318660146635233937
+    second: sprites sin cr_8
+  - first:
+      213: 2123618703445924698
+    second: sprites sin cr_9
+  - first:
+      213: 5312143675838252325
+    second: sprites sin cr_10
+  - first:
+      213: 2889104063286874974
+    second: sprites sin cr_11
+  - first:
+      213: -5097705524284999564
+    second: sprites sin cr_12
+  - first:
+      213: 5305376568448368516
+    second: sprites sin cr_13
+  - first:
+      213: 1773892422585951311
+    second: sprites sin cr_14
+  - first:
+      213: 3649322734927489052
+    second: sprites sin cr_15
+  - first:
+      213: -4048014715503769162
+    second: sprites sin cr_16
+  - first:
+      213: -4127471512955761882
+    second: sprites sin cr_17
+  - first:
+      213: 263648453689445606
+    second: sprites sin cr_18
+  - first:
+      213: -2115542317315463649
+    second: sprites sin cr_19
+  - first:
+      213: -6537084681459982379
+    second: sprites sin cr_20
+  - first:
+      213: -8488772344585608023
+    second: sprites sin cr_21
+  - first:
+      213: -8016401693194921670
+    second: sprites sin cr_22
+  - first:
+      213: 302715438307200657
+    second: sprites sin cr_23
+  - first:
+      213: 716085978127836867
+    second: sprites sin cr_24
+  - first:
+      213: -8799079283637569621
+    second: sprites sin cr_25
+  - first:
+      213: 6796926859547313549
+    second: sprites sin cr_26
+  - first:
+      213: 4959905128958777458
+    second: sprites sin cr_27
+  - first:
+      213: 3486711425544399060
+    second: sprites sin cr_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites sin cr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ee443c69cf234987296f2338c9271
+      internalID: -1228076795800534153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab516ac921c40a740aaaf4b041d65b69
+      internalID: -8302930075987241631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6857649809b81646bf1f12643c911b9
+      internalID: 1625827257960977348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b61909c6c25a94a9c05f3ab598f3c0
+      internalID: -4574983326445715560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c036db26b5da494c94e8614dfbea4f5
+      internalID: -170763263886067233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7faf9ecc54c944adb45c5ddfca658
+      internalID: -1828472550800350751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb6308ac158514b874f265802a4d6f
+      internalID: 1931399061785046024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f7096bda6eb740b66329f6c87cd48
+      internalID: -7104835373507913034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af2353178fdfb45945dd6aa325b6fe
+      internalID: 2318660146635233937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca293e57087a61e43950281b88fbe3ab
+      internalID: 2123618703445924698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6acd8b5584c8a42b2796a84cb70808
+      internalID: 5312143675838252325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04de2ec551d9841a6b5006cbb8589c
+      internalID: 2889104063286874974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3045a031c6c964d809f6e319fd9088
+      internalID: -5097705524284999564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c2b0d65a2a544685e35130407c46e
+      internalID: 5305376568448368516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96030e5645b4f4383c2125d2c573dc
+      internalID: 1773892422585951311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 29
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f11d4be371bca4497fd7194805a002
+      internalID: 3649322734927489052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 30
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c3d5380e8ac054bb213987bc0c4c59
+      internalID: -4048014715503769162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4756d2506f1c4aa98ed84d73959b7
+      internalID: -4127471512955761882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 29
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943eab96f4c1fc438a8ee82a05b42f7
+      internalID: 263648453689445606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 29
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d274d2d21c31241bb7318e4b58c1c3
+      internalID: -2115542317315463649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 29
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339156563cac8a34ba90b52188c93d51
+      internalID: -6537084681459982379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc72d22e34cdd24fbd66140bcab7593
+      internalID: -8488772344585608023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59f1eec3827c44690bd69ef6c4e43f
+      internalID: -8016401693194921670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d9baf468c6b774094eb69a7e4a39a2
+      internalID: 302715438307200657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e301abfdc914f794aa0175b1e6543eec
+      internalID: 716085978127836867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1666cf22836d2ad4b85ffbb433b09eda
+      internalID: -8799079283637569621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae70ccd0b9576b44a950a62b275f4230
+      internalID: 6796926859547313549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 29
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f3bb69c8ea1b4ca80550d27e1e391
+      internalID: 4959905128958777458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites sin cr_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc077a1de1ba749902055f13dee2c3
+      internalID: 3486711425544399060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ed3d1a4f27d4cb64abd77dd318e66c65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
