@@ -1,91 +1,82 @@
 fileFormatVersion: 2
-guid: c40fcfe21719e1d459fab427676bc086
+guid: fe5f7e68d350f7148a2087baf77e6d2e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1228076795800534153
-    second: sprites sin cr_0
+      213: 664479271415976373
+    second: pngocean.com_0
   - first:
-      213: -8302930075987241631
-    second: sprites sin cr_1
+      213: -3612376674394159619
+    second: pngocean.com_1
   - first:
-      213: 1625827257960977348
-    second: sprites sin cr_2
+      213: 4211376689683349362
+    second: pngocean.com_2
   - first:
-      213: -4574983326445715560
-    second: sprites sin cr_3
+      213: -5021893336788840948
+    second: pngocean.com_3
   - first:
-      213: -170763263886067233
-    second: sprites sin cr_4
+      213: 1843841475554868278
+    second: pngocean.com_4
   - first:
-      213: -1828472550800350751
-    second: sprites sin cr_5
+      213: 39665344620150849
+    second: pngocean.com_5
   - first:
-      213: 1931399061785046024
-    second: sprites sin cr_6
+      213: 5168339286265309256
+    second: pngocean.com_6
   - first:
-      213: -7104835373507913034
-    second: sprites sin cr_7
+      213: 620978140474611965
+    second: pngocean.com_7
   - first:
-      213: 2318660146635233937
-    second: sprites sin cr_8
+      213: -1558188596926995037
+    second: pngocean.com_8
   - first:
-      213: 2123618703445924698
-    second: sprites sin cr_9
+      213: -3626476184452925160
+    second: pngocean.com_9
   - first:
-      213: 5312143675838252325
-    second: sprites sin cr_10
+      213: 6452608614715054541
+    second: pngocean.com_10
   - first:
-      213: 2889104063286874974
-    second: sprites sin cr_11
+      213: -6477751040283215818
+    second: pngocean.com_11
   - first:
-      213: -5097705524284999564
-    second: sprites sin cr_12
+      213: -3521050166714031514
+    second: pngocean.com_12
   - first:
-      213: 5305376568448368516
-    second: sprites sin cr_13
+      213: -1461877002773331748
+    second: pngocean.com_13
   - first:
-      213: 1773892422585951311
-    second: sprites sin cr_14
+      213: -294522672699131202
+    second: pngocean.com_14
   - first:
-      213: 3649322734927489052
-    second: sprites sin cr_15
+      213: 3969986669075226156
+    second: pngocean.com_15
   - first:
-      213: -4048014715503769162
-    second: sprites sin cr_16
+      213: -5300193679978650100
+    second: pngocean.com_16
   - first:
-      213: -4127471512955761882
-    second: sprites sin cr_17
+      213: 2480870184867831919
+    second: pngocean.com_17
   - first:
-      213: 263648453689445606
-    second: sprites sin cr_18
+      213: -2772877538713891078
+    second: pngocean.com_18
   - first:
-      213: -2115542317315463649
-    second: sprites sin cr_19
+      213: 1091361214020218784
+    second: pngocean.com_19
   - first:
-      213: -6537084681459982379
-    second: sprites sin cr_20
+      213: 5873525503602101112
+    second: pngocean.com_20
   - first:
-      213: -8488772344585608023
-    second: sprites sin cr_21
+      213: -3471107770263260103
+    second: pngocean.com_21
   - first:
-      213: -8016401693194921670
-    second: sprites sin cr_22
+      213: 7693836660545693495
+    second: pngocean.com_22
   - first:
-      213: 302715438307200657
-    second: sprites sin cr_23
+      213: -3068727446871763387
+    second: pngocean.com_23
   - first:
-      213: 716085978127836867
-    second: sprites sin cr_24
-  - first:
-      213: -8799079283637569621
-    second: sprites sin cr_25
-  - first:
-      213: 6796926859547313549
-    second: sprites sin cr_26
-  - first:
-      213: 4959905128958777458
-    second: sprites sin cr_27
+      213: 9217710403177213071
+    second: pngocean.com_24
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -168,13 +159,223 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprites sin cr_0
+      name: pngocean.com_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a07fdb74a3ba4ea35f82e829440c4
+      internalID: 664479271415976373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19383d5c193324bbb9108bbedcff16
+      internalID: -3612376674394159619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 340
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c502791fb8ed340b866ace7a0c27ba
+      internalID: 4211376689683349362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 338
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc57d4a5ab5dfe4cb34f16a3fa199ca
+      internalID: -5021893336788840948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 340
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf5936419d5bc141af376552fb5aa1b
+      internalID: 1843841475554868278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 259
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7773f73c1daf24f9bf272d57000ce2
+      internalID: 39665344620150849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 260
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e5987e18d68774ab074ddfe91d9698
+      internalID: 5168339286265309256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 259
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27c485088dde84b8c470905f91d342
+      internalID: 620978140474611965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7934fb14cda78f440b7877e79ce181bd
+      internalID: -1558188596926995037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 265
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37676f32de694144b1a49c88c9e728e
+      internalID: -3626476184452925160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 95
-        width: 20
-        height: 24
+        y: 173
+        width: 87
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0f48d83e8bb32b418d8aa7aa390ea32
-      internalID: -1228076795800534153
+      spriteID: 457aa8a982aa2154dacafd36ce452d9b
+      internalID: 6452608614715054541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_1
+      name: pngocean.com_11
       rect:
         serializedVersion: 2
-        x: 33
-        y: 95
-        width: 19
-        height: 24
+        x: 89
+        y: 175
+        width: 86
+        height: 82
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,40 +404,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5315a5b1da437ff4185040e01370d25e
-      internalID: -8302930075987241631
+      spriteID: 3be2667b5aae4854c816b3989733080e
+      internalID: -6477751040283215818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_2
+      name: pngocean.com_12
       rect:
         serializedVersion: 2
-        x: 65
-        y: 95
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3fa87795a58c0241b95d9ec7fbb3121
-      internalID: 1625827257960977348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 94
-        width: 22
+        x: 179
+        y: 234
+        width: 15
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -245,20 +425,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 462f42f50735b7c49a429ffce96a45fc
-      internalID: -4574983326445715560
+      spriteID: 711c35f6f014bc1468194a582182c719
+      internalID: -3521050166714031514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_4
+      name: pngocean.com_13
       rect:
         serializedVersion: 2
-        x: 128
-        y: 94
-        width: 22
-        height: 25
+        x: 175
+        y: 166
+        width: 83
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +446,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d33180931fd38ea448a2842dcd2c0c11
-      internalID: -170763263886067233
+      spriteID: d064862be4d874040a4cfb4d2058839a
+      internalID: -1461877002773331748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_5
+      name: pngocean.com_14
       rect:
         serializedVersion: 2
-        x: 160
-        y: 95
-        width: 22
-        height: 24
+        x: 257
+        y: 169
+        width: 85
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +467,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfc9c14adff1d0743b64e30753e623c4
-      internalID: -1828472550800350751
+      spriteID: eb6f46c561e8fa544ad265dbb49d067e
+      internalID: -294522672699131202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_6
+      name: pngocean.com_15
       rect:
         serializedVersion: 2
-        x: 191
-        y: 95
-        width: 21
-        height: 24
+        x: 341
+        y: 171
+        width: 86
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +488,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5acb4fff0bc5844d8adbb5f95ca6754
-      internalID: 1931399061785046024
+      spriteID: 63d07c3ab74af4446ba8bcd93c5238ec
+      internalID: 3969986669075226156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_7
+      name: pngocean.com_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 62
-        width: 22
-        height: 27
+        x: 2
+        y: 92
+        width: 84
+        height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +509,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eb531f8d2a24e943b733e0afc2a5950
-      internalID: -7104835373507913034
+      spriteID: 426d984645c7d2449b071762d4192b16
+      internalID: -5300193679978650100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_8
+      name: pngocean.com_17
       rect:
         serializedVersion: 2
-        x: 33
-        y: 63
-        width: 20
-        height: 26
+        x: 88
+        y: 90
+        width: 86
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +530,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6f4bc5df6ea3f348b8703a4c543cce0
-      internalID: 2318660146635233937
+      spriteID: 09f8e069c31971c49909705e70cd0661
+      internalID: 2480870184867831919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_9
+      name: pngocean.com_18
       rect:
         serializedVersion: 2
-        x: 65
-        y: 63
-        width: 19
-        height: 26
+        x: 179
+        y: 92
+        width: 67
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +551,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a0fad93e5e26ba40a890e3163f5fe36
-      internalID: 2123618703445924698
+      spriteID: 7c5ee77e75215cb44a54db3a96ff6c13
+      internalID: -2772877538713891078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_10
+      name: pngocean.com_19
       rect:
         serializedVersion: 2
-        x: 97
-        y: 62
-        width: 18
-        height: 27
+        x: 258
+        y: 87
+        width: 81
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,20 +572,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1acda6f293d7c1c448ca3b7d50087489
-      internalID: 5312143675838252325
+      spriteID: 49f8eca93faf5044a820838c763452e9
+      internalID: 1091361214020218784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_11
+      name: pngocean.com_20
       rect:
         serializedVersion: 2
-        x: 128
-        y: 63
-        width: 19
-        height: 25
+        x: 340
+        y: 92
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,20 +593,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 250be4ffc88544c498c2f4f84e0e3b46
-      internalID: 2889104063286874974
+      spriteID: fa12fa97fb7568e47922fdabd2f1f6d9
+      internalID: 5873525503602101112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_12
+      name: pngocean.com_21
       rect:
         serializedVersion: 2
-        x: 160
-        y: 63
-        width: 19
-        height: 25
+        x: 8
+        y: 20
+        width: 70
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,20 +614,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0fdeb698795b684294ee895f3f4cc3e
-      internalID: -5097705524284999564
+      spriteID: 569b352f7343b5442bf537e2750fb9eb
+      internalID: -3471107770263260103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_13
+      name: pngocean.com_22
       rect:
         serializedVersion: 2
-        x: 191
-        y: 63
-        width: 20
-        height: 26
+        x: 88
+        y: 20
+        width: 79
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,20 +635,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e419c327c323db14b9b69b97265ecb1c
-      internalID: 5305376568448368516
+      spriteID: 6ae1cc37f2ec7d943ac5f09cec3776e8
+      internalID: 7693836660545693495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_14
+      name: pngocean.com_23
       rect:
         serializedVersion: 2
-        x: 0
-        y: 30
-        width: 25
-        height: 27
+        x: 178
+        y: 23
+        width: 81
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,20 +656,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 291988d9492dcd94d8f1bbf14af5d8ba
-      internalID: 1773892422585951311
+      spriteID: 684cb420e429933418afc4005d08bd01
+      internalID: -3068727446871763387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites sin cr_15
+      name: pngocean.com_24
       rect:
         serializedVersion: 2
-        x: 33
-        y: 31
-        width: 19
-        height: 26
+        x: 260
+        y: 20
+        width: 77
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,260 +677,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 223090b7f143c4247bffaf0fc94ae7f3
-      internalID: 3649322734927489052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_16
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 31
-        width: 19
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0bf1a57b0534b34a8aae8dfb23d03d9
-      internalID: -4048014715503769162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_17
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 31
-        width: 20
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2840f90423df4b4ba3bd888a082bece
-      internalID: -4127471512955761882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_18
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 31
-        width: 22
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 429d2227234454f4fb7c2b9a95eaac85
-      internalID: 263648453689445606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_19
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 31
-        width: 20
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0edab5117ceb8904db90b55b24b2607d
-      internalID: -2115542317315463649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_20
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 31
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b2715a50431f05c4e905b33bf9bbf3ed
-      internalID: -6537084681459982379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_21
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 21
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ac3ebf2e6e439a4d9ac5b5b3166d6f8
-      internalID: -8488772344585608023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_22
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 0
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2db0d0a0d0d200c4da48714cd32cfe81
-      internalID: -8016401693194921670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_23
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 141d1869f81f2434f86b79b7f09bc9a4
-      internalID: 302715438307200657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_24
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 0
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18e43ab89e276f94b9676e1c234399d4
-      internalID: 716085978127836867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_25
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 22
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: febe6d84270b800438d17c31e4781430
-      internalID: -8799079283637569621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_26
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf03a7b3c3adfe9409eee6aeb8b0d7d7
-      internalID: 6796926859547313549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites sin cr_27
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 649840e360617b54688b56f6f7d792b3
-      internalID: 4959905128958777458
+      spriteID: f947e39ae1561884daa16f38c332b023
+      internalID: 9217710403177213071
       vertices: []
       indices: 
       edges: []
@@ -758,7 +686,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: dcbda2de18e3e8746b0c2c6bc00f2ad9
+    spriteID: 57beb034f9802a34ca084f2b3bcba981
     internalID: 0
     vertices: []
     indices: 
