@@ -45,10 +45,11 @@ public class ColocarBomba : MonoBehaviour
             {
                 GameObject bombaADetonar = Instantiate(bomba, offset.position, new Quaternion());
                 bombaADetonar.GetComponent<Bomba>().Init(tiempoDeDetonacion, modificadorDamage, jugadorAsignado, alcance, explosion);
+                gameObject.SendMessage("CambioDeVelocidad", 2);
             }
             else
             {
-                bombaAInteractuar.SendMessage("Interaccion");
+                bombaAInteractuar.SendMessage("Interaccion", gameObject);
             }
         }
     }

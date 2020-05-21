@@ -134,7 +134,11 @@ public class MovimientoJugador : MonoBehaviour
 
     void CambioDeVelocidad(int valorDeCambio)
     {
-        StopCoroutine(cambiarVelocidad);
+        if (cambiarVelocidad != null)
+        {
+            StopCoroutine(cambiarVelocidad);
+            velocidadJugador = 250;
+        }
 
         if (valorDeCambio > 0)
         {
@@ -159,7 +163,7 @@ public class MovimientoJugador : MonoBehaviour
 
     private IEnumerator WaitForVelocity(int valorDeCambio)
     {
-        yield return new WaitForSeconds(10); 
+        yield return new WaitForSeconds(3); 
         if (valorDeCambio > 0)
         {
             velocidadJugador = velocidadJugador / valorDeCambio;

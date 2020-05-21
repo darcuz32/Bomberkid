@@ -111,17 +111,19 @@ public class Bomba : MonoBehaviour
 
     }
 
-    void Interaccion()
+    void Interaccion(GameObject gameObject)
     {
         activada = !activada;
         animCont.SetTrigger("Cambio");
         if (!activada)
         {
             StopCoroutine(detonar);
+            gameObject.SendMessage("CambioDeVelocidad", -2);
         }
         else
         {
             detonar = StartCoroutine(ActivarBomba(tiempoDeDetonacion));
+            gameObject.SendMessage("CambioDeVelocidad", 2);
         }
 
         
