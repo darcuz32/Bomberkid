@@ -18,6 +18,8 @@ public class ColocarBomba : MonoBehaviour
     int alcance;
     Transform offset;
     string jugadorAsignado;
+    bool puedoInteractuar = false;
+    GameObject bombaAInteractuar;
 
     MovimientoJugador movJ;
 
@@ -39,8 +41,22 @@ public class ColocarBomba : MonoBehaviour
     {
         if (Input.GetButtonDown(jugadorAsignado + "Fire1") && !movJ.EstaMuerto)
         {
-            GameObject bombaADetonar = Instantiate(bomba, offset.position, new Quaternion());
-            bombaADetonar.GetComponent<Bomba>().Init(tiempoDeDetonacion, modificadorDamage, jugadorAsignado, alcance, explosion);
+            if (!puedoInteractuar)
+            {
+                GameObject bombaADetonar = Instantiate(bomba, offset.position, new Quaternion());
+                bombaADetonar.GetComponent<Bomba>().Init(tiempoDeDetonacion, modificadorDamage, jugadorAsignado, alcance, explosion);
+            }
+            else
+            {
+                bombaAInteractuar.SendMessage("Interaccion");
+            }
         }
     }
+
+    public void InteraccionBomba(GameObject bomba)
+    {
+        puedoInteractuar = !puedoInteractuar;
+        bombaAInteractuar = bomba;
+    }
+
 }

@@ -1,82 +1,91 @@
 fileFormatVersion: 2
-guid: fe5f7e68d350f7148a2087baf77e6d2e
+guid: 389b865278e841a4eb580c84019d560a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 664479271415976373
-    second: pngocean.com_0
+      213: -697692436896489966
+    second: bombas_0
   - first:
-      213: -3612376674394159619
-    second: pngocean.com_1
+      213: 3790694515115792463
+    second: bombas_1
   - first:
-      213: 4211376689683349362
-    second: pngocean.com_2
+      213: -5061165127333548909
+    second: bombas_2
   - first:
-      213: -5021893336788840948
-    second: pngocean.com_3
+      213: -9150624525497351127
+    second: bombas_3
   - first:
-      213: 1843841475554868278
-    second: pngocean.com_4
+      213: -9024237807312742091
+    second: bombas_4
   - first:
-      213: 39665344620150849
-    second: pngocean.com_5
+      213: 8436841461501732038
+    second: bombas_5
   - first:
-      213: 5168339286265309256
-    second: pngocean.com_6
+      213: 9069732684675979206
+    second: bombas_6
   - first:
-      213: 620978140474611965
-    second: pngocean.com_7
+      213: 2403581899210546864
+    second: bombas_7
   - first:
-      213: -1558188596926995037
-    second: pngocean.com_8
+      213: 1620792800882462908
+    second: bombas_8
   - first:
-      213: -3626476184452925160
-    second: pngocean.com_9
+      213: -6151306137905230754
+    second: bombas_9
   - first:
-      213: 6452608614715054541
-    second: pngocean.com_10
+      213: 8434657146539013219
+    second: bombas_10
   - first:
-      213: -6477751040283215818
-    second: pngocean.com_11
+      213: -3324599635983614253
+    second: bombas_11
   - first:
-      213: -3521050166714031514
-    second: pngocean.com_12
+      213: 3242443991510515773
+    second: bombas_12
   - first:
-      213: -1461877002773331748
-    second: pngocean.com_13
+      213: 6276016838901723338
+    second: bombas_13
   - first:
-      213: -294522672699131202
-    second: pngocean.com_14
+      213: 4665844773679577617
+    second: bombas_14
   - first:
-      213: 3969986669075226156
-    second: pngocean.com_15
+      213: -4195868446964248247
+    second: bombas_15
   - first:
-      213: -5300193679978650100
-    second: pngocean.com_16
+      213: 5811149301674210767
+    second: bombas_16
   - first:
-      213: 2480870184867831919
-    second: pngocean.com_17
+      213: 1097619622447424490
+    second: bombas_17
   - first:
-      213: -2772877538713891078
-    second: pngocean.com_18
+      213: -3952710889706805419
+    second: bombas_18
   - first:
-      213: 1091361214020218784
-    second: pngocean.com_19
+      213: 8385115911932478868
+    second: bombas_19
   - first:
-      213: 5873525503602101112
-    second: pngocean.com_20
+      213: -7454189260708604206
+    second: bombas_20
   - first:
-      213: -3471107770263260103
-    second: pngocean.com_21
+      213: -7712874515859152694
+    second: bombas_21
   - first:
-      213: 7693836660545693495
-    second: pngocean.com_22
+      213: 5406919299887889176
+    second: bombas_22
   - first:
-      213: -3068727446871763387
-    second: pngocean.com_23
+      213: -1549688139535029255
+    second: bombas_23
   - first:
-      213: 9217710403177213071
-    second: pngocean.com_24
+      213: -5471213694368421449
+    second: bombas_24
+  - first:
+      213: 3477441569629610912
+    second: bombas_25
+  - first:
+      213: 3224604856669927235
+    second: bombas_26
+  - first:
+      213: -1319022533238839020
+    second: bombas_27
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -120,7 +129,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 50
+  spritePixelsToUnits: 13
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -192,526 +201,589 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngocean.com_0
+      name: bombas_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 375
-        width: 18
-        height: 18
+        x: 26
+        y: 105
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 791a07fdb74a3ba4ea35f82e829440c4
-      internalID: 664479271415976373
+      spriteID: c910f5cc3074ec84c862bcf20bea2924
+      internalID: -697692436896489966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_1
+      name: bombas_1
       rect:
         serializedVersion: 2
-        x: 116
-        y: 371
-        width: 26
-        height: 26
+        x: 46
+        y: 105
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea19383d5c193324bbb9108bbedcff16
-      internalID: -3612376674394159619
+      spriteID: c45bcd4885e0dfb4db722a00a2bf2211
+      internalID: 3790694515115792463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_2
+      name: bombas_2
       rect:
         serializedVersion: 2
-        x: 197
-        y: 366
-        width: 35
-        height: 36
+        x: 66
+        y: 105
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13c502791fb8ed340b866ace7a0c27ba
-      internalID: 4211376689683349362
+      spriteID: e59fa2d482b2da446882b6099b187e2e
+      internalID: -5061165127333548909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_3
+      name: bombas_3
       rect:
         serializedVersion: 2
-        x: 279
-        y: 362
-        width: 43
-        height: 44
+        x: 86
+        y: 105
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acc57d4a5ab5dfe4cb34f16a3fa199ca
-      internalID: -5021893336788840948
+      spriteID: 56adaf9963495c94ea8c159f5515c764
+      internalID: -9150624525497351127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_4
+      name: bombas_4
       rect:
         serializedVersion: 2
-        x: 361
-        y: 358
-        width: 50
-        height: 51
+        x: 106
+        y: 105
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cf5936419d5bc141af376552fb5aa1b
-      internalID: 1843841475554868278
+      spriteID: 8a87276cec2fc154eaeb1795d940e674
+      internalID: -9024237807312742091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_5
+      name: bombas_5
       rect:
         serializedVersion: 2
-        x: 17
-        y: 270
-        width: 56
-        height: 57
+        x: 26
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e7773f73c1daf24f9bf272d57000ce2
-      internalID: 39665344620150849
+      spriteID: 3761bbb8363c8104ea3b7e9578def186
+      internalID: 8436841461501732038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_6
+      name: bombas_6
       rect:
         serializedVersion: 2
-        x: 99
-        y: 268
-        width: 62
-        height: 58
+        x: 46
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4e5987e18d68774ab074ddfe91d9698
-      internalID: 5168339286265309256
+      spriteID: 49823df2a3908a5469d6ab7bc9b1c618
+      internalID: 9069732684675979206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_7
+      name: bombas_7
       rect:
         serializedVersion: 2
-        x: 183
-        y: 266
-        width: 65
-        height: 65
+        x: 66
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad27c485088dde84b8c470905f91d342
-      internalID: 620978140474611965
+      spriteID: 411eb18b3ff67064fa51b97a348c08a8
+      internalID: 2403581899210546864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_8
+      name: bombas_8
       rect:
         serializedVersion: 2
-        x: 267
-        y: 264
-        width: 68
-        height: 69
+        x: 86
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7934fb14cda78f440b7877e79ce181bd
-      internalID: -1558188596926995037
+      spriteID: 18fce47dc6498a6459ee569d78cef90f
+      internalID: 1620792800882462908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_9
+      name: bombas_9
       rect:
         serializedVersion: 2
-        x: 351
-        y: 265
-        width: 71
-        height: 70
+        x: 106
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f37676f32de694144b1a49c88c9e728e
-      internalID: -3626476184452925160
+      spriteID: 0af9a52757249704fa8d8815ff972fa6
+      internalID: -6151306137905230754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_10
+      name: bombas_10
       rect:
         serializedVersion: 2
-        x: 7
-        y: 176
-        width: 75
-        height: 75
+        x: 21
+        y: 65
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 457aa8a982aa2154dacafd36ce452d9b
-      internalID: 6452608614715054541
+      spriteID: 1983e86a3a1125349bdc1a34af0b1f65
+      internalID: 8434657146539013219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_11
+      name: bombas_11
       rect:
         serializedVersion: 2
-        x: 92
-        y: 175
-        width: 77
-        height: 76
+        x: 37
+        y: 65
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3be2667b5aae4854c816b3989733080e
-      internalID: -6477751040283215818
+      spriteID: 8deddffddf0cf084096c9898f05fec5c
+      internalID: -3324599635983614253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_12
+      name: bombas_12
       rect:
         serializedVersion: 2
-        x: 179
-        y: 234
-        width: 15
-        height: 25
+        x: 55
+        y: 65
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 711c35f6f014bc1468194a582182c719
-      internalID: -3521050166714031514
+      spriteID: de32dd2062b656346bcc748ff3f82ff0
+      internalID: 3242443991510515773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_13
+      name: bombas_13
       rect:
         serializedVersion: 2
-        x: 177
-        y: 166
-        width: 78
-        height: 87
+        x: 73
+        y: 65
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d064862be4d874040a4cfb4d2058839a
-      internalID: -1461877002773331748
+      spriteID: 6bdcd27733133cb40885ffbb7c5506eb
+      internalID: 6276016838901723338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_14
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 168
-        width: 80
-        height: 85
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb6f46c561e8fa544ad265dbb49d067e
-      internalID: -294522672699131202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngocean.com_15
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 172
-        width: 81
-        height: 82
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63d07c3ab74af4446ba8bcd93c5238ec
-      internalID: 3969986669075226156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngocean.com_16
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 92
-        width: 82
-        height: 77
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 426d984645c7d2449b071762d4192b16
-      internalID: -5300193679978650100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngocean.com_17
+      name: bombas_14
       rect:
         serializedVersion: 2
         x: 89
-        y: 90
-        width: 82
-        height: 79
+        y: 65
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09f8e069c31971c49909705e70cd0661
-      internalID: 2480870184867831919
+      spriteID: 5378c0875f008fe4583ac6cb75d29ce1
+      internalID: 4665844773679577617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_18
+      name: bombas_15
       rect:
         serializedVersion: 2
-        x: 179
-        y: 92
-        width: 67
-        height: 77
+        x: 106
+        y: 65
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c5ee77e75215cb44a54db3a96ff6c13
-      internalID: -2772877538713891078
+      spriteID: 69417f35dd9443f438b62dd362395277
+      internalID: -4195868446964248247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_19
+      name: bombas_16
       rect:
         serializedVersion: 2
-        x: 259
-        y: 87
-        width: 80
-        height: 70
+        x: 21
+        y: 44
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49f8eca93faf5044a820838c763452e9
-      internalID: 1091361214020218784
+      spriteID: bf23cafcf19fbab46984debda8ffeaeb
+      internalID: 5811149301674210767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_20
+      name: bombas_17
       rect:
         serializedVersion: 2
-        x: 344
-        y: 92
-        width: 74
-        height: 68
+        x: 37
+        y: 44
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa12fa97fb7568e47922fdabd2f1f6d9
-      internalID: 5873525503602101112
+      spriteID: 8ac0723a62bdfaa45a4cc4b6bae0307f
+      internalID: 1097619622447424490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_21
+      name: bombas_18
       rect:
         serializedVersion: 2
-        x: 27
-        y: 31
-        width: 31
-        height: 29
+        x: 54
+        y: 44
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 569b352f7343b5442bf537e2750fb9eb
-      internalID: -3471107770263260103
+      spriteID: 38898f2fa5658fa4393b1a31839411c7
+      internalID: -3952710889706805419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_22
+      name: bombas_19
       rect:
         serializedVersion: 2
-        x: 112
-        y: 31
-        width: 30
-        height: 28
+        x: 73
+        y: 44
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae1cc37f2ec7d943ac5f09cec3776e8
-      internalID: 7693836660545693495
+      spriteID: e06bb437c27fa124fbebcb68df0ca352
+      internalID: 8385115911932478868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_23
+      name: bombas_20
       rect:
         serializedVersion: 2
-        x: 199
-        y: 30
-        width: 29
-        height: 29
+        x: 91
+        y: 44
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 684cb420e429933418afc4005d08bd01
-      internalID: -3068727446871763387
+      spriteID: a327d4e2c74e7b8499fb7dca1a2efce6
+      internalID: -7454189260708604206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngocean.com_24
+      name: bombas_21
       rect:
         serializedVersion: 2
-        x: 285
-        y: 30
-        width: 27
-        height: 28
+        x: 111
+        y: 44
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f947e39ae1561884daa16f38c332b023
-      internalID: 9217710403177213071
+      spriteID: 92119d8be3551984b8daa5d0131d501e
+      internalID: -7712874515859152694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombas_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 24
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd79e3add966624b98cddad949363de
+      internalID: 5406919299887889176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombas_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 24
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b182dd28fd1640bf5e8501253cd8d
+      internalID: -1549688139535029255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombas_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 24
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234334555b12b464da353ff32f8ff191
+      internalID: -5471213694368421449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombas_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382f8b097986744d907b5dde440551f
+      internalID: 3477441569629610912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombas_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f009416b565e439302c532af51534
+      internalID: 3224604856669927235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombas_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee28e62c3aadd46b9a3c00d0f20dc5
+      internalID: -1319022533238839020
       vertices: []
       indices: 
       edges: []
@@ -719,7 +791,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 57beb034f9802a34ca084f2b3bcba981
+    spriteID: 395f75ef0e7859349a510861838dc416
     internalID: 0
     vertices: []
     indices: 

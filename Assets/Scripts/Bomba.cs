@@ -12,12 +12,16 @@ public class Bomba : MonoBehaviour
     int alcance;
     Transform offset;
     GameObject explosion;
+    Coroutine detonar;
+    [SerializeField]
+    bool activada = true;
+    float tiempoFaltante;
     // Start is called before the first frame update
     void Awake()
     {
         rb2d = GetComponent<Rigidbody2D>();
-        animCont = GetComponent<Animator>();
         offset = transform.GetChild(0);
+        animCont = GetComponent<Animator>();
     }
 
     public void Init(float tiempoDeDetonacion, int modificadorDamage, string elQueColoco, int alcance, GameObject explosion)
@@ -27,53 +31,112 @@ public class Bomba : MonoBehaviour
         this.elQueColoco = elQueColoco; 
         this.alcance = alcance;
         this.explosion = explosion;
-        animCont.SetBool("Inestable", false);
-
-        StartCoroutine(ActivarBomba());
+        animCont.SetBool("Critica", false);
+        activada = true;
+        detonar = StartCoroutine(ActivarBomba(tiempoDeDetonacion));
     }
 
 
-    IEnumerator ActivarBomba()
+    IEnumerator ActivarBomba(float tiempoDeDetonacion)
     {
-        yield return new WaitForSeconds(tiempoDeDetonacion - 3);
-        animCont.SetBool("Inestable", true);
-        yield return new WaitForSeconds(3);
+        for (float tiempoFaltante = tiempoDeDetonacion; tiempoFaltante > 3; tiempoFaltante -= Time.deltaTime)
+        {
+            this.tiempoDeDetonacion = tiempoFaltante;
+            yield return null;
+        }
+        if (!animCont.GetBool("Critica"))
+        {
+            animCont.SetBool("Critica", true);
+            yield return new WaitForSeconds(3);
+        }
         Detonar();
     }
 
     void Detonar()
     {
+
         Destroy(gameObject);
         Vector3 pos = offset.position;
 
+        
         CrearExplosion(pos);
 
         for (int i = 1; i <= alcance; i++)
-        {
-            pos = offset.position;
-            pos.x += i;
-            CrearExplosion(pos);
+         {
+             pos = offset.position;
+             pos.x += i;
+             CrearExplosion(pos);
 
-            pos = offset.position;
-            pos.x -= i;
-            CrearExplosion(pos);
+             pos = offset.position;
+             pos.x -= i;
+             CrearExplosion(pos);
 
-            pos = offset.position;
-            pos.y += i;
-            CrearExplosion(pos);
+             pos = offset.position;
+             pos.y += i;
+             CrearExplosion(pos);
 
-            pos = offset.position;
-            pos.y -= i;
-            CrearExplosion(pos);
+             pos = offset.position;
+             pos.y -= i;
+             CrearExplosion(pos);
 
 
-        }
+         }
+        
     }
 
     void CrearExplosion(Vector3 pos)
     {
+        
         GameObject explosionParaMostrar = Instantiate(explosion, pos, new Quaternion());
         explosionParaMostrar.GetComponent<Explosion>().Init(modificadorDamage);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+
+        if (collision.tag == "Player")
+        {
+            collision.SendMessage("InteraccionBomba", gameObject);
+        }
+
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+
+        if (collision.tag == "Player")
+        {
+            collision.SendMessage("InteraccionBomba", gameObject);
+        }
+
+    }
+
+    void Interaccion()
+    {
+        activada = !activada;
+        animCont.SetTrigger("Cambio");
+        if (!activada)
+        {
+            StopCoroutine(detonar);
+        }
+        else
+        {
+            detonar = StartCoroutine(ActivarBomba(tiempoDeDetonacion));
+        }
+
+        
+    }
+
+    void Activar()
+    {
+        
+        if (!activada) {
+            activada = !activada;
+            animCont.SetTrigger("Cambio");
+            detonar = StartCoroutine(ActivarBomba(tiempoDeDetonacion));
+        }
+
+
     }
 
 

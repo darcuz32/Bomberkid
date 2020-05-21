@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Pared destruible
   - Pared Indestructible
+  - Bomba
   layers:
   - Default
   - TransparentFX
@@ -42,4 +43,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Bombas
+    uniqueID: 2762847653
+    locked: 0
+  - name: Jugador
+    uniqueID: 2022005239
+    locked: 0
+  - name: Mapa
+    uniqueID: 774626457
+    locked: 0
+  - name: Explosiones
+    uniqueID: 2881723601
     locked: 0

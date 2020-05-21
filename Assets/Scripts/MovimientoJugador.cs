@@ -79,6 +79,7 @@ public class MovimientoJugador : MonoBehaviour
         else if (Input.GetAxisRaw(jugadorAsignado + "Horizontal") != 0 && !muerto)
         {
             inputJugador = new Vector2(Input.GetAxisRaw(jugadorAsignado + "Horizontal"), 0);
+
         }
         else
         {

@@ -1,20 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class Explosion : MonoBehaviour
 {
     int modificadorDamage;
+    [SerializeField]
+    AnimationClip explosion;
 
     public void Init(int modificadorDamage)
     {
         this.modificadorDamage = modificadorDamage;
-        StartCoroutine(EjecutarContador());
+        StartCoroutine(EjecutarContador(explosion));
     }
 
-    IEnumerator EjecutarContador()
+    IEnumerator EjecutarContador(AnimationClip animation)
     {
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(explosion.length);
         Destruir();
     }
 
@@ -31,16 +34,23 @@ public class Explosion : MonoBehaviour
         {
             collision.SendMessage("Destruir");
         }
-        else if (collision.tag == "ParedDestructible")
+        else if (collision.tag == "Pared destruible")
         {
-
-            Destroy(collision.gameObject);
+            Tilemap tilemap = collision.GetComponent<Tilemap>();
+            Vector3Int pos = Vector3Int.FloorToInt(transform.position);
+            tilemap.SetTile(pos, null);
+            //Destroy(collision.gameObject);
+        }
+        else if (collision.tag == "Bomba")
+        {
+            collision.SendMessage("Activar");
         }
         else if (collision.tag != "Explosion")
         {
-            Destruir();
+            // Destruir();
         }
 
-        
+
+
     }
 }
